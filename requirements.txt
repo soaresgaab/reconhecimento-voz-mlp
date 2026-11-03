@@ -1,0 +1,6 @@
+# Dependências do projeto de Reconhecimento de Voz com MLP do Zero
+# Nenhuma biblioteca pronta de Machine Learning (como PyTorch, TensorFlow, Scikit-Learn ou Keras) é utilizada.
+numpy>=1.24.0
+scipy>=1.10.0
+ipython>=8.0.0
+

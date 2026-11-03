@@ -1,0 +1,40 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Caches e arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Arquivos de editores e sistemas operacionais
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+token.json
+
+# Caches de teste e logs
+.pytest_cache/
+.ruff_cache/
+*.log
+
+# Garantir rastreamento obrigatório dos dados do projeto (áudios WAV/AAC e CSVs)
+!dados/
+!dados/**
