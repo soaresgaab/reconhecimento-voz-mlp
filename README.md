@@ -11,8 +11,7 @@ A rede classifica seis sílabas fonéticas (`DI`, `REI`, `TA`, `ES`, `QUER` e `D
 ## Estrutura do Projeto
 
 ```text
-├── Reconhecimento_Voz_MLP_Experimental.ipynb  # Notebook principal: exploração experimental e seleção de modelo
-├── Reconhecimento_Voz_MLP_Do_Zero.ipynb       # Notebook de referência com a implementação manual
+├── Reconhecimento_Voz_MLP_Experimental.ipynb  # Notebook oficial: exploração experimental e seleção de modelo
 ├── segmentacao_audio.py                      # Algoritmo de segmentação de sílabas por curvas de energia e ZCR
 ├── dados/                                    # Dados acústicos completos do projeto
 │   ├── originais/                            # Gravações originais contínuas em formato AAC
@@ -26,9 +25,10 @@ A rede classifica seis sílabas fonéticas (`DI`, `REI`, `TA`, `ES`, `QUER` e `D
 │   │   └── DA/ (73 amostras)
 │   ├── silabas.csv                           # Metadados de cada segmento silábico (ordem, amostras, etc.)
 │   └── particoes.csv                         # Divisão estrita por gravação: 318 treino, 63 validação, 42 teste
+├── figuras/                                  # 10 figuras PNG geradas pelo notebook em 300 DPI
 ├── enunciado.pdf                             # Especificação formal do trabalho prático
 ├── REQUISITOS.md                             # Critérios metodológicos e restrições técnicas
-├── requirements.txt                          # Dependências mínimas necessárias (numpy, scipy, ipython)
+├── requirements.txt                          # Dependências mínimas necessárias (numpy, scipy, matplotlib, ipython)
 ├── .gitignore                                # Exclusões de ambiente virtual, caches e temporários
 └── README.md                                 # Guia rápido de documentação e execução
 ```
