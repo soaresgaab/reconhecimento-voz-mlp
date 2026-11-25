@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="550.0" y="45" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">Comparativo Acústico e Métricas Temporais entre Locutores</text>
+<text x="550.0" y="70" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle">Duração silábica média, RMS de pico e Taxa de Cruzamento por Zero (ZCR)</text>
+<rect x="80" y="110" width="280" height="420" fill="#f8fafc" stroke="#cbd5e1" rx="4"/>
+<text x="220.0" y="140" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a" text-anchor="middle">Duração Silábica Média (s)</text>
+<rect x="115" y="276.6" width="50" height="193.4" fill="#3b82f6" rx="2"/>
+<text x="140.0" y="268.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">0.242s</text>
+<text x="140.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 1</text>
+<rect x="195" y="309.6" width="50" height="160.4" fill="#f59e0b" rx="2"/>
+<text x="220.0" y="301.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">0.200s</text>
+<text x="220.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 2</text>
+<rect x="275" y="322.0" width="50" height="148.0" fill="#10b981" rx="2"/>
+<text x="300.0" y="314.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">0.185s</text>
+<text x="300.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 3</text>
+<rect x="410" y="110" width="280" height="420" fill="#f8fafc" stroke="#cbd5e1" rx="4"/>
+<text x="550.0" y="140" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a" text-anchor="middle">RMS de Pico Médio (dBFS)</text>
+<rect x="445" y="354.9" width="50" height="115.1" fill="#3b82f6" rx="2"/>
+<text x="470.0" y="346.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">-23.6 dB</text>
+<text x="470.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 1</text>
+<rect x="525" y="351.9" width="50" height="118.1" fill="#f59e0b" rx="2"/>
+<text x="550.0" y="343.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">-23.1 dB</text>
+<text x="550.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 2</text>
+<rect x="605" y="296.6" width="50" height="173.4" fill="#10b981" rx="2"/>
+<text x="630.0" y="288.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">-15.2 dB</text>
+<text x="630.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 3</text>
+<rect x="740" y="110" width="280" height="420" fill="#f8fafc" stroke="#cbd5e1" rx="4"/>
+<text x="880.0" y="140" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a" text-anchor="middle">ZCR Médio do Segmento</text>
+<rect x="775" y="413.8" width="50" height="56.2" fill="#3b82f6" rx="2"/>
+<text x="800.0" y="405.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">0.050</text>
+<text x="800.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 1</text>
+<rect x="855" y="291.3" width="50" height="178.7" fill="#f59e0b" rx="2"/>
+<text x="880.0" y="283.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">0.160</text>
+<text x="880.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 2</text>
+<rect x="935" y="261.6" width="50" height="208.4" fill="#10b981" rx="2"/>
+<text x="960.0" y="253.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b" text-anchor="middle">0.186</text>
+<text x="960.0" y="490" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="bold" fill="#64748b" text-anchor="middle">Loc 3</text>
+</svg>

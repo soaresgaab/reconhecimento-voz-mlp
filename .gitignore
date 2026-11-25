@@ -1,5 +1,6 @@
 # Ambientes virtuais Python
 .venv/
+venv_mrna/
 venv/
 env/
 ENV/

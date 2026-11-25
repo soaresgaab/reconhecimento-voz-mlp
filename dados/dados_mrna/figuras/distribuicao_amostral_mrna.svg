@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="550.0" y="45" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1e293b">Distribuição Amostral do Conjunto de Dados MRNA</text>
+<text x="550.0" y="70" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle">Contagem de classes silábicas e particionamento experimental por locutor (Total = 504 sílabas)</text>
+<rect x="70" y="110" width="450" height="450" fill="#f8fafc" stroke="#cbd5e1" rx="4"/>
+<text x="295.0" y="140" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0f172a" text-anchor="middle">Segmentos por Classe Silábica</text>
+<rect x="110" y="276.4" width="45" height="233.6" fill="#3b82f6"/>
+<rect x="110" y="257.2" width="45" height="19.2" fill="#f59e0b"/>
+<rect x="110" y="238.0" width="45" height="19.2" fill="#10b981"/>
+<text x="132.5" y="230.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">85</text>
+<text x="132.5" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">DA</text>
+<rect x="180" y="292.4" width="45" height="217.6" fill="#3b82f6"/>
+<rect x="180" y="266.8" width="45" height="25.6" fill="#f59e0b"/>
+<rect x="180" y="244.4" width="45" height="22.4" fill="#10b981"/>
+<text x="202.5" y="236.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">83</text>
+<text x="202.5" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">DI</text>
+<rect x="250" y="276.4" width="45" height="233.6" fill="#3b82f6"/>
+<rect x="250" y="257.2" width="45" height="19.2" fill="#f59e0b"/>
+<rect x="250" y="238.0" width="45" height="19.2" fill="#10b981"/>
+<text x="272.5" y="230.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">85</text>
+<text x="272.5" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">ES</text>
+<rect x="320" y="276.4" width="45" height="233.6" fill="#3b82f6"/>
+<rect x="320" y="257.2" width="45" height="19.2" fill="#f59e0b"/>
+<rect x="320" y="238.0" width="45" height="19.2" fill="#10b981"/>
+<text x="342.5" y="230.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">85</text>
+<text x="342.5" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">QUER</text>
+<rect x="390" y="292.4" width="45" height="217.6" fill="#3b82f6"/>
+<rect x="390" y="266.8" width="45" height="25.6" fill="#f59e0b"/>
+<rect x="390" y="244.4" width="45" height="22.4" fill="#10b981"/>
+<text x="412.5" y="236.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">83</text>
+<text x="412.5" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">REI</text>
+<rect x="460" y="292.4" width="45" height="217.6" fill="#3b82f6"/>
+<rect x="460" y="266.8" width="45" height="25.6" fill="#f59e0b"/>
+<rect x="460" y="244.4" width="45" height="22.4" fill="#10b981"/>
+<text x="482.5" y="236.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">83</text>
+<text x="482.5" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">TA</text>
+<rect x="580" y="110" width="450" height="450" fill="#f8fafc" stroke="#cbd5e1" rx="4"/>
+<text x="805.0" y="140" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="bold" fill="#0f172a" text-anchor="middle">Partições Experimentais</text>
+<rect x="635" y="267.7" width="70" height="242.3" fill="#3b82f6"/>
+<rect x="635" y="244.9" width="70" height="22.9" fill="#f59e0b"/>
+<rect x="635" y="224.3" width="70" height="20.6" fill="#10b981"/>
+<text x="670.0" y="216.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">375</text>
+<text x="670.0" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">Treinamento</text>
+<rect x="755" y="462.0" width="70" height="48.0" fill="#3b82f6"/>
+<rect x="755" y="457.4" width="70" height="4.6" fill="#f59e0b"/>
+<rect x="755" y="452.9" width="70" height="4.6" fill="#10b981"/>
+<text x="790.0" y="444.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">75</text>
+<text x="790.0" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">Validação</text>
+<rect x="875" y="478.0" width="70" height="32.0" fill="#3b82f6"/>
+<rect x="875" y="473.4" width="70" height="4.6" fill="#f59e0b"/>
+<rect x="875" y="468.9" width="70" height="4.6" fill="#10b981"/>
+<text x="910.0" y="460.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">54</text>
+<text x="910.0" y="530" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155" text-anchor="middle">Teste</text>
+<rect x="350.0" y="605" width="400" height="32" fill="#ffffff" stroke="#cbd5e1" rx="4"/>
+<rect x="370.0" y="616" width="14" height="14" fill="#3b82f6"/>
+<text x="390.0" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1e293b">Locutor 1 (423)</text>
+<rect x="500.0" y="616" width="14" height="14" fill="#f59e0b"/>
+<text x="520.0" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1e293b">Locutor 2 (42)</text>
+<rect x="630.0" y="616" width="14" height="14" fill="#10b981"/>
+<text x="650.0" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1e293b">Locutor 3 (39)</text>
+</svg>
